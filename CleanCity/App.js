@@ -4,6 +4,10 @@
  * @flow
  */
 
+// This file contains the landing screen implementation
+// Author: Shripada
+// Created On: 18 Apr 2018
+
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
 import RootNavigation from './app/config/routes';
